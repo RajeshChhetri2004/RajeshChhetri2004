@@ -43,12 +43,12 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+<a href="https://github.com/RajeshChhetri2004">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshChhetri2004&theme=tokyonight"/>
   </a>
 
 <a href="https://github.com/RajeshChhetri2004">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajeshChhetri2004&show_icons=true&theme=tokyonight&line_height=27" alt="Rajesh's github stats"/>
 </a>
 
 <br/>
