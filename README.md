@@ -131,7 +131,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <a href="rajeshthedeveloper2004@gmail.com" >
   <img align="center" alt="Rajesh Chhetri | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com//profile.php?id=100013628134596">
+<a href="https://www.facebook.com///profile.php?id=100013628134596">
     <img align="center" alt="Christian Rajesh | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
