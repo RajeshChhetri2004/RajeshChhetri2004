@@ -1,12 +1,12 @@
-
+<h1 align="center">Hello Devs! 👋, I'm Rajesh Chhetri</h1>
 <h3 align="center">A passionate Fronted  developer from NEPAL</h3>
 <!-- <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>
 <img align="center" src="https://i.ibb.co/Lx4BgdQ/291898125-1479465415856980-6911077526514162129-n-modified-removebg-preview.png"/>-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bijay-develops&label=_Profile%20views_(2025)👉&color=a146f9&style=flat" alt="" /> </p> -->
 
 <hr>
 <div align="center" style=" display: flex; justify-content: center;">
-  <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1">
+<!--   <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/125327818?s=400&u=864deefc6671c1adc452094f5d0286b6a1be5d21&v=4" alt="Image description 1"> -->
   <img style="height: 250px;" src="https://avatars.githubusercontent.com/u/190657913?s=400&u=914e17b23f4ce17ce8d065f2bcf11d63749228ec&v=4" alt="The Webspace">
 </div>
 <hr>
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **JavaScript, Reactjs, Nodejs, Express.js, etc**
 
-- 📫 How to reach me bijaybk307@gmail.com
+- 📫 How to reach me rajeshthedeveloper2004@gmaol.com
 
 - ⚡ Fun fact **I love Sarcasm.**
 
