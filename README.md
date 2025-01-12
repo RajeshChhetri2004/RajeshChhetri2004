@@ -69,8 +69,8 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=New.code&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/The-WebSpace/social-media-post">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=Media-post&theme=tokyonight" />
+<a href="https://rajeshchhetri2004.github.io/Rajesh_Project/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=Food_Website&theme=tokyonight" />
 </a>
 
 
