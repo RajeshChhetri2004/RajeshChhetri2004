@@ -58,19 +58,19 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 ### My Projects ✨:
   
 <a href="https://rajeshchhetri2004.github.io/PortFolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=PortFolio&theme=tokyonight" />
 </a>
 
 <a href="https://rajeshchhetri2004.github.io/Analog-clock/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=Analog-Clock&theme=tokyonight" />
 </a>
 
 <a href="https://rajeshchhetri2004.github.io/New.code/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=New.code&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/The-WebSpace/social-media-post">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajeshChhetri2004&repo=Media-post&theme=tokyonight" />
 </a>
 
 
