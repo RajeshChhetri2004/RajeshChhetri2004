@@ -8,13 +8,18 @@
 
 With over 1 years of experience as a Computer Science, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
+<br>
+<br>
+<br>
+
 
   - 🔭 I’m currently working on Intership in Fuse Machine Company .
   - 🌱 I’m currently learning; Django, Node.Js, Next.js, Typescript.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
+  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, 
+  - ⚡ Fun fact: I look like a hobbit,
+  
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
@@ -22,32 +27,71 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 </a>
 </p>
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 
+<br>
+<br>
+
+
+
+### Repository Activity ✔:
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+### Github Activity ✔:
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  </a>
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+<a href="https://github.com/RajeshChhetri2004">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+### My Projects ✨:
+  
+<a href="https://rajeshchhetri2004.github.io/PortFolio/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
+
+<a href="https://rajeshchhetri2004.github.io/Analog-clock/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
+
+<a href="https://rajeshchhetri2004.github.io/New.code/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/The-WebSpace/social-media-post">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
+
+
+
+
+### My WakaTime Stats 📊:
+
+<!--START_SECTION:waka-->
+```text
+Week: 07 January, 2021 - 14 January, 2021
+
+HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
+JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+
+
 
 ## 🛠️ My Skills
 -------------------
