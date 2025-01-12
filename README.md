@@ -169,7 +169,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 ------
 
-[Rahul Dhanola](https://github.com/DHANOLA)
+[Rajesh Chhetri](https://github.com/RajeshChhetri2004)
 
 Last Edited on: 09/09/2021
 
