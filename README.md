@@ -133,7 +133,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijay-develops&show_icons=true&locale=en&layout=compact" alt="bijay-develops" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=bijay-develops&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=e83640" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajeshChhetri2004&show_icons=true&locale=en&layout=compact" alt="RajeshChhetri2004
+<img src="https://github-readme-stats.vercel.app/api?username=RajeshChhetri2004&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=e83640" />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bijay" /></a></p><br><br>
