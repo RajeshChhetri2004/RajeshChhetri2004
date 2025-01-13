@@ -76,7 +76,7 @@ With over 1 years of experience as a Computer Science, I'm on a mission to creat
 
 
 
-### My WakaTime Stats 📊:
+### My Work Time Status 📊:
 
 <!--START_SECTION:waka-->
 ```text
